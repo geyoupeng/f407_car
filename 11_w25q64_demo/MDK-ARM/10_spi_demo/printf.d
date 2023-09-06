@@ -1,0 +1,11 @@
+10_spi_demo\printf.o: ..\5_Lib\printf\printf.c
+10_spi_demo\printf.o: ../2_Devices/devices.h
+10_spi_demo\printf.o: ../3_ModuleDrvs/drivers.h
+10_spi_demo\printf.o: ../4_Includes/config.h
+10_spi_demo\printf.o: ../3_ModuleDrvs/drv_gpio.h
+10_spi_demo\printf.o: ../2_Devices/dev_gpio.h
+10_spi_demo\printf.o: ../3_ModuleDrvs/drv_uart.h
+10_spi_demo\printf.o: ../2_Devices/dev_uart.h
+10_spi_demo\printf.o: ../3_ModuleDrvs/drv_spi.h
+10_spi_demo\printf.o: ../2_Devices/dev_spi.h
+10_spi_demo\printf.o: D:\graduate\MDK534\ARM\ARMCC\Bin\..\include\stdio.h

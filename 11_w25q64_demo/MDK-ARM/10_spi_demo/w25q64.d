@@ -1,0 +1,17 @@
+10_spi_demo\w25q64.o: ..\2_Devices\w25q\w25q64.c
+10_spi_demo\w25q64.o: ..\2_Devices\w25q\w25qxx.h
+10_spi_demo\w25q64.o: ../2_Devices/devices.h
+10_spi_demo\w25q64.o: ../3_ModuleDrvs/drivers.h
+10_spi_demo\w25q64.o: ../4_Includes/config.h
+10_spi_demo\w25q64.o: ../3_ModuleDrvs/drv_gpio.h
+10_spi_demo\w25q64.o: ../2_Devices/dev_gpio.h
+10_spi_demo\w25q64.o: ../3_ModuleDrvs/drv_uart.h
+10_spi_demo\w25q64.o: ../2_Devices/dev_uart.h
+10_spi_demo\w25q64.o: ../3_ModuleDrvs/drv_spi.h
+10_spi_demo\w25q64.o: ../2_Devices/dev_spi.h
+10_spi_demo\w25q64.o: ../4_Includes/my_type.h
+10_spi_demo\w25q64.o: ../4_Includes/errno.h
+10_spi_demo\w25q64.o: ../5_Lib/libs.h
+10_spi_demo\w25q64.o: ../5_Lib/printf/printf.h
+10_spi_demo\w25q64.o: D:\graduate\MDK534\ARM\ARMCC\Bin\..\include\stdio.h
+10_spi_demo\w25q64.o: ../5_Lib/ring_buffer/ring_buffer.h

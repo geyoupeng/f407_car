@@ -1,0 +1,11 @@
+12_display_st7789_demo\printf.o: ..\5_Lib\printf\printf.c
+12_display_st7789_demo\printf.o: ../2_Devices/devices.h
+12_display_st7789_demo\printf.o: ../3_ModuleDrvs/drivers.h
+12_display_st7789_demo\printf.o: ../4_Includes/config.h
+12_display_st7789_demo\printf.o: ../3_ModuleDrvs/drv_gpio.h
+12_display_st7789_demo\printf.o: ../2_Devices/dev_gpio.h
+12_display_st7789_demo\printf.o: ../3_ModuleDrvs/drv_uart.h
+12_display_st7789_demo\printf.o: ../2_Devices/dev_uart.h
+12_display_st7789_demo\printf.o: ../3_ModuleDrvs/drv_spi.h
+12_display_st7789_demo\printf.o: ../2_Devices/dev_spi.h
+12_display_st7789_demo\printf.o: D:\graduate\MDK534\ARM\ARMCC\Bin\..\include\stdio.h
